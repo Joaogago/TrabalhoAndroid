@@ -19,7 +19,7 @@
             </intent-filter>
         </activity>
         <activity
-            android:name=".FistAccess"
+            android:name=".FistAccessActivity"
             android:label="@string/title_activity_fist_access"
             android:theme="@style/AppTheme.NoActionBar" >
         </activity>
